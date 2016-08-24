@@ -1,0 +1,986 @@
+Hello
+Hide Table  Update CSV
+category;mcc;edited_description
+123;0742;Veterinary Services
+111;0763;Agricultural Co-operatives
+111;0780;Horticultural Services, Landscaping Services
+111;1520;General Contractors-Residential and Commercial
+111;1711;Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation
+111;1731;Electrical Contractors
+111;1740;Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors
+111;1750;Carpentry Contractors
+111;1761;Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors
+111;1771;Contractors – Concrete Work
+111;1799;Contractors – Special Trade, Not Elsewhere Classified
+111;2741;Miscellaneous Publishing and Printing
+111;2791;Typesetting, Plate Making, & Related Services
+111;2842;Specialty Cleaning, Polishing, and Sanitation Preparations
+111;3000;UNITED AIRLINES
+111;3001;AMERICAN AIRLINES
+111;3002;PAN AMERICAN
+111;3003;Airlines
+111;3004;TRANS WORLD AIRLINES
+111;3005;BRITISH AIRWAYS
+111;3006;JAPAN AIRLINES
+111;3007;AIR FRANCE
+111;3008;LUFTHANSA
+111;3009;AIR CANADA
+111;3010;KLM (ROYAL DUTCH AIRLINES)
+111;3011;AEORFLOT
+111;3012;QUANTAS
+111;3013;ALITALIA
+111;3014;SAUDIA ARABIAN AIRLINES
+undefined;3015;SWISSAIR
+undefined;3016;SAS
+undefined;3017;SOUTH AFRICAN AIRWAYS
+undefined;3018;VARIG (BRAZIL)
+undefined;3019;Airlines
+undefined;3020;AIR-INDIA
+undefined;3021;AIR ALGERIE
+undefined;3022;PHILIPPINE AIRLINES
+undefined;3023;MEXICANA
+undefined;3024;PAKISTAN INTERNATIONAL
+undefined;3025;AIR NEW ZEALAND
+undefined;3026;Airlines
+undefined;3027;UTA/INTERAIR
+undefined;3028;AIR MALTA
+undefined;3029;SABENA
+undefined;3030;AEROLINEAS ARGENTINAS
+undefined;3031;OLYMPIC AIRWAYS
+undefined;3032;EL AL
+undefined;3033;ANSETT AIRLINES
+undefined;3034;AUSTRAINLIAN AIRLINES
+undefined;3035;TAP (PORTUGAL)
+undefined;3036;VASP (BRAZIL)
+undefined;3037;EGYPTAIR
+undefined;3038;KUWAIT AIRLINES
+undefined;3039;AVIANCA
+undefined;3040;GULF AIR (BAHRAIN)
+undefined;3041;BALKAN-BULGARIAN AIRLINES
+undefined;3042;FINNAIR
+undefined;3043;AER LINGUS
+undefined;3044;AIR LANKA
+undefined;3045;NIGERIA AIRWAYS
+undefined;3046;CRUZEIRO DO SUL (BRAZIJ)
+undefined;3047;THY (TURKEY)
+undefined;3048;ROYAL AIR MAROC
+undefined;3049;TUNIS AIR
+undefined;3050;ICELANDAIR
+undefined;3051;AUSTRIAN AIRLINES
+undefined;3052;LANCHILE
+undefined;3053;AVIACO (SPAIN)
+undefined;3054;LADECO (CHILE)
+undefined;3055;LAB (BOLIVIA)
+undefined;3056;QUEBECAIRE
+undefined;3057;EASTWEST AIRLINES (AUSTRALIA)
+undefined;3058;DELTA
+undefined;3059;Airlines
+undefined;3060;NORTHWEST
+undefined;3061;CONTINENTAL
+undefined;3062;WESTERN
+undefined;3063;US AIR
+undefined;3064;Airlines
+undefined;3065;AIRINTER
+undefined;3066;SOUTHWEST
+undefined;3067;Airlines
+undefined;3068;Airlines
+undefined;3069;SUN COUNTRY AIRLINES
+undefined;3070;Airlines
+undefined;3071;AIR BRITISH COLUBIA
+undefined;3072;Airlines
+undefined;3073;Airlines
+undefined;3074;Airlines
+undefined;3075;SINGAPORE AIRLINES
+undefined;3076;AEROMEXICO
+undefined;3077;THAI AIRWAYS
+undefined;3078;CHINA AIRLINES
+undefined;3079;Airlines
+undefined;3080;Airlines
+undefined;3081;NORDAIR
+undefined;3082;KOREAN AIRLINES
+undefined;3083;AIR AFRIGUE
+undefined;3084;EVA AIRLINES
+undefined;3085;MIDWEST EXPRESS AIRLINES, INC.
+undefined;3086;Airlines
+undefined;3087;METRO AIRLINES
+undefined;3088;CROATIA AIRLINES
+undefined;3089;TRANSAERO
+undefined;3090;Airlines
+undefined;3091;Airlines
+undefined;3092;Airlines
+undefined;3093;Airlines
+undefined;3094;ZAMBIA AIRWAYS
+undefined;3095;Airlines
+undefined;3096;AIR ZIMBABWE
+undefined;3097;Airlines
+undefined;3098;Airlines
+undefined;3099;CATHAY PACIFIC
+undefined;3100;MALAYSIAN AIRLINE SYSTEM
+undefined;3101;Airlines
+undefined;3102;IBERIA
+undefined;3103;GARUDA (INDONESIA)
+undefined;3104;Airlines
+undefined;3105;Airlines
+undefined;3106;BRAATHENS S.A.F.E. (NORWAY)
+undefined;3107;Airlines
+undefined;3108;Airlines
+undefined;3109;Airlines
+undefined;3110;WINGS AIRWAYS
+undefined;3111;BRITISH MIDLAND
+undefined;3112;WINDWARD ISLAND
+undefined;3113;Airlines
+undefined;3114;Airlines
+undefined;3115;Airlines
+undefined;3116;Airlines
+undefined;3117;VIASA
+undefined;3118;VALLEY AIRLINES
+undefined;3119;Airlines
+undefined;3120;Airlines
+undefined;3121;Airlines
+undefined;3122;Airlines
+undefined;3123;Airlines
+undefined;3124;Airlines
+undefined;3125;TAN
+undefined;3126;TALAIR
+undefined;3127;TACA INTERNATIONAL
+undefined;3128;Airlines
+undefined;3129;SURINAM AIRWAYS
+undefined;3130;SUN WORLD INTERNATIONAL
+undefined;3131;Airlines
+undefined;3132;Airlines
+undefined;3133;SUNBELT AIRLINES
+undefined;3134;Airlines
+undefined;3135;SUDAN AIRWAYS
+undefined;3136;Airlines
+undefined;3137;SINGLETON
+undefined;3138;SIMMONS AIRLINES
+undefined;3139;Airlines
+undefined;3140;Airlines
+undefined;3141;Airlines
+undefined;3142;Airlines
+undefined;3143;SCENIC AIRLINES
+undefined;3144;VIRGIN ATLANTIC
+undefined;3145;SAN JUAN AIRLINES
+undefined;3146;LUXAIR
+undefined;3147;Airlines
+undefined;3148;Airlines
+undefined;3149;Airlines
+undefined;3150;Airlines
+undefined;3151;AIR ZAIRE
+undefined;3152;Airlines
+undefined;3153;Airlines
+undefined;3154;PRINCEVILLE
+undefined;3155;Airlines
+undefined;3156;Airlines
+undefined;3157;Airlines
+undefined;3158;Airlines
+undefined;3159;PBA
+undefined;3160;Airlines
+undefined;3161;ALL NIPPON AIRWAYS
+undefined;3162;Airlines
+undefined;3163;Airlines
+undefined;3164;NORONTAIR
+undefined;3165;NEW YORK HELICOPTER
+undefined;3166;Airlines
+undefined;3167;Airlines
+undefined;3168;Airlines
+undefined;3169;Airlines
+undefined;3170;NOUNT COOK
+undefined;3171;CANADIAN AIRLINES INTERNATIONAL
+undefined;3172;NATIONAIR
+undefined;3173;Airlines
+undefined;3174;Airlines
+undefined;3175;Airlines
+undefined;3176;METROFLIGHT AIRLINES
+undefined;3177;Airlines
+undefined;3178;MESA AIR
+undefined;3179;Airlines
+undefined;3180;Airlines
+undefined;3181;MALEV
+undefined;3182;LOT (POLAND)
+undefined;3183;Airlines
+undefined;3184;LIAT
+undefined;3185;LAV (VENEZUELA)
+undefined;3186;LAP (PARAGUAY)
+undefined;3187;LACSA (COSTA RICA)
+undefined;3188;Airlines
+undefined;3189;Airlines
+undefined;3190;JUGOSLAV AIR
+undefined;3191;ISLAND AIRLINES
+undefined;3192;IRAN AIR
+undefined;3193;INDIAN AIRLINES
+undefined;3194;Airlines
+undefined;3195;Airlines
+undefined;3196;HAWAIIAN AIR
+undefined;3197;HAVASU AIRLINES
+undefined;3198;Airlines
+undefined;3199;Airlines
+undefined;3200;FUYANA AIRWAYS
+undefined;3201;Airlines
+undefined;3202;Airlines
+undefined;3203;GOLDEN PACIFIC AIR
+undefined;3204;FREEDOM AIR
+undefined;3205;Airlines
+undefined;3206;Airlines
+undefined;3207;Airlines
+undefined;3208;Airlines
+undefined;3209;Airlines
+undefined;3210;Airlines
+undefined;3211;Airlines
+undefined;3212;DOMINICANA
+undefined;3213;Airlines
+undefined;3214;Airlines
+undefined;3215;DAN AIR SERVICES
+undefined;3216;CUMBERLAND AIRLINES
+undefined;3217;CSA
+undefined;3218;CROWN AIR
+undefined;3219;COPA
+undefined;3220;COMPANIA FAUCETT
+undefined;3221;TRANSPORTES AEROS MILITARES ECCUATORANOS
+undefined;3222;COMMAND AIRWAYS
+undefined;3223;COMAIR
+undefined;3224;Airlines
+undefined;3225;Airlines
+undefined;3226;Airlines
+undefined;3227;Airlines
+undefined;3228;CAYMAN AIRWAYS
+undefined;3229;SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS
+undefined;3230;Airlines
+undefined;3231;SASHA SERVICIO AERO DE HONDURAS
+undefined;3232;Airlines
+undefined;3233;CAPITOL AIR
+undefined;3234;BWIA
+undefined;3235;BROKWAY AIR
+undefined;3236;Airlines
+undefined;3237;Airlines
+undefined;3238;BEMIDJI AIRLINES
+undefined;3239;BAR HARBOR AIRLINES
+undefined;3240;BAHAMASAIR
+undefined;3241;AVIATECA (GUATEMALA)
+undefined;3242;AVENSA
+undefined;3243;AUSTRIAN AIR SERVICE
+undefined;3244;Airlines
+undefined;3245;Airlines
+undefined;3246;Airlines
+undefined;3247;Airlines
+undefined;3248;Airlines
+undefined;3249;Airlines
+undefined;3250;Airlines
+undefined;3251;ALOHA AIRLINES
+undefined;3252;ALM
+undefined;3253;AMERICA WEST
+undefined;3254;TRUMP AIRLINE
+undefined;3255;Airlines
+undefined;3256;ALASKA AIRLINES
+undefined;3257;Airlines
+undefined;3258;Airlines
+undefined;3259;AMERICAN TRANS AIR
+undefined;3260;Airlines
+undefined;3261;AIR CHINA
+undefined;3262;RENO AIR, INC.
+undefined;3263;Airlines
+undefined;3264;Airlines
+undefined;3265;Airlines
+undefined;3266;AIR SEYCHELLES
+undefined;3267;AIR PANAMA
+undefined;3268;Airlines
+undefined;3269;Airlines
+undefined;3270;Airlines
+undefined;3271;Airlines
+undefined;3272;Airlines
+undefined;3273;Airlines
+undefined;3274;Airlines
+undefined;3275;Airlines
+undefined;3276;Airlines
+undefined;3277;Airlines
+undefined;3278;Airlines
+undefined;3279;Airlines
+undefined;3280;AIR JAMAICA
+undefined;3281;Airlines
+undefined;3282;AIR DJIBOUTI
+undefined;3283;Airlines
+undefined;3284;AERO VIRGIN ISLANDS
+undefined;3285;AERO PERU
+undefined;3286;AEROLINEAS NICARAGUENSIS
+undefined;3287;AERO COACH AVAIATION
+undefined;3288;Airlines
+undefined;3289;Airlines
+undefined;3290;Airlines
+undefined;3291;ARIANA AFGHAN
+undefined;3292;CYPRUS AIRWAYS
+undefined;3293;ECUATORIANA
+undefined;3294;ETHIOPIAN AIRLINES
+undefined;3295;KENYA AIRLINES
+undefined;3296;Airlines
+undefined;3297;Airlines
+undefined;3298;AIR MAURITIUS
+undefined;3299;WIDERO’S FLYVESELSKAP
+undefined;3351;AFFILIATED AUTO RENTAL
+undefined;3352;AMERICAN INTL RENT-A-CAR
+undefined;3353;BROOKS RENT-A-CAR
+undefined;3354;ACTION AUTO RENTAL
+undefined;3355;Car Rental
+undefined;3356;Car Rental
+undefined;3357;HERTZ RENT-A-CAR
+undefined;3358;Car Rental
+undefined;3359;PAYLESS CAR RENTAL
+undefined;3360;SNAPPY CAR RENTAL
+undefined;3361;AIRWAYS RENT-A-CAR
+undefined;3362;ALTRA AUTO RENTAL
+undefined;3363;Car Rental
+undefined;3364;AGENCY RENT-A-CAR
+undefined;3365;Car Rental
+undefined;3366;BUDGET RENT-A-CAR
+undefined;3367;Car Rental
+undefined;3368;HOLIDAY RENT-A-WRECK
+undefined;3369;Car Rental
+undefined;3370;RENT-A-WRECK
+undefined;3371;Car Rental
+undefined;3372;Car Rental
+undefined;3373;Car Rental
+undefined;3374;Car Rental
+undefined;3375;Car Rental
+undefined;3376;AJAX RENT-A-CAR
+undefined;3377;Car Rental
+undefined;3378;Car Rental
+undefined;3379;Car Rental
+undefined;3380;Car Rental
+undefined;3381;EUROP CAR
+undefined;3382;Car Rental
+undefined;3383;Car Rental
+undefined;3384;Car Rental
+undefined;3385;TROPICAL RENT-A-CAR
+undefined;3386;SHOWCASE RENTAL CARS
+undefined;3387;ALAMO RENT-A-CAR
+undefined;3388;Car Rental
+undefined;3389;AVIS RENT-A-CAR
+undefined;3390;DOLLAR RENT-A-CAR
+undefined;3391;EUROPE BY CAR
+undefined;3392;Car Rental
+undefined;3393;NATIONAL CAR RENTAL
+undefined;3394;KEMWELL GROUP RENT-A-CAR
+undefined;3395;THRIFTY RENT-A-CAR
+undefined;3396;TILDEN TENT-A-CAR
+undefined;3397;Car Rental
+undefined;3398;ECONO-CAR RENT-A-CAR
+undefined;3399;Car Rental
+undefined;3400;AUTO HOST COST CAR RENTALS
+undefined;3401;Car Rental
+undefined;3402;Car Rental
+undefined;3403;Car Rental
+undefined;3404;Car Rental
+undefined;3405;ENTERPRISE RENT-A-CAR
+undefined;3406;Car Rental
+undefined;3407;Car Rental
+undefined;3408;Car Rental
+undefined;3409;GENERAL RENT-A-CAR
+undefined;3410;Car Rental
+undefined;3411;Car Rental
+undefined;3412;A-1 RENT-A-CAR
+undefined;3413;Car Rental
+undefined;3414;GODFREY NATL RENT-A-CAR
+undefined;3415;Car Rental
+undefined;3416;Car Rental
+undefined;3417;Car Rental
+undefined;3418;Car Rental
+undefined;3419;ALPHA RENT-A-CAR
+undefined;3420;ANSA INTL RENT-A-CAR
+undefined;3421;ALLSTAE RENT-A-CAR
+undefined;3422;Car Rental
+undefined;3423;AVCAR RENT-A-CAR
+undefined;3424;Car Rental
+undefined;3425;AUTOMATE RENT-A-CAR
+undefined;3426;Car Rental
+undefined;3427;AVON RENT-A-CAR
+undefined;3428;CAREY RENT-A-CAR
+undefined;3429;INSURANCE RENT-A-CAR
+undefined;3430;MAJOR RENT-A-CAR
+undefined;3431;REPLACEMENT RENT-A-CAR
+undefined;3432;RESERVE RENT-A-CAR
+undefined;3433;UGLY DUCKLING RENT-A-CAR
+undefined;3434;USA RENT-A-CAR
+undefined;3435;VALUE RENT-A-CAR
+undefined;3436;AUTOHANSA RENT-A-CAR
+undefined;3437;CITE RENT-A-CAR
+undefined;3438;INTERENT RENT-A-CAR
+undefined;3439;MILLEVILLE RENT-A-CAR
+undefined;3440;VIA ROUTE RENT-A-CAR
+undefined;3441;Car Rental
+undefined;3501;HOLIDAY INNS, HOLIDAY INN EXPRESS
+undefined;3502;BEST WESTERN HOTELS
+undefined;3503;SHERATON HOTELS
+undefined;3504;HILTON HOTELS
+undefined;3505;FORTE HOTELS
+undefined;3506;GOLDEN TULIP HOTELS
+undefined;3507;FRIENDSHIP INNS
+undefined;3508;QUALITY INNS, QUALITY SUITES
+undefined;3509;MARRIOTT HOTELS
+undefined;3510;DAYS INN, DAYSTOP
+undefined;3511;ARABELLA HOTELS
+undefined;3512;INTER-CONTINENTAL HOTELS
+undefined;3513;WESTIN HOTELS
+undefined;3514;Hotels/Motels/Inns/Resorts
+undefined;3515;RODEWAY INNS
+undefined;3516;LA QUINTA MOTOR INNS
+undefined;3517;AMERICANA HOTELS
+undefined;3518;SOL HOTELS
+undefined;3519;PULLMAN INTERNATIONAL HOTELS
+undefined;3520;MERIDIEN HOTELS
+undefined;3521;CREST HOTELS (see FORTE HOTELS)
+undefined;3522;TOKYO HOTEL
+undefined;3523;PENNSULA HOTEL
+undefined;3524;WELCOMGROUP HOTELS
+undefined;3525;DUNFEY HOTELS
+undefined;3526;Hotels/Motels/Inns/Resorts
+undefined;3527;DOWNTOWNER-PASSPORT HOTEL
+undefined;3528;RED LION HOTELS, RED LION INNS
+undefined;3529;CP HOTELS
+undefined;3530;RENAISSANCE HOTELS, STOUFFER HOTELS
+undefined;3531;ASTIR HOTELS
+undefined;3532;SUN ROUTE HOTELS
+undefined;3533;HOTEL IBIS
+undefined;3534;SOUTHERN PACIFIC HOTELS
+undefined;3535;HILTON INTERNATIONAL
+undefined;3536;AMFAC HOTELS
+undefined;3537;ANA HOTEL
+undefined;3538;CONCORDE HOTELS
+undefined;3539;Hotels/Motels/Inns/Resorts
+undefined;3540;IBEROTEL HOTELS
+undefined;3541;HOTEL OKURA
+undefined;3542;ROYAL HOTELS
+undefined;3543;FOUR SEASONS HOTELS
+undefined;3544;CIGA HOTELS
+undefined;3545;SHANGRI-LA INTERNATIONAL
+undefined;3546;Hotels/Motels/Inns/Resorts
+undefined;3547;Hotels/Motels/Inns/Resorts
+undefined;3548;HOTELES MELIA
+undefined;3549;AUBERGE DES GOVERNEURS
+undefined;3550;REGAL 8 INNS
+undefined;3551;Hotels/Motels/Inns/Resorts
+undefined;3552;COAST HOTELS
+undefined;3553;PARK INNS INTERNATIONAL
+undefined;3554;Hotels/Motels/Inns/Resorts
+undefined;3555;Hotels/Motels/Inns/Resorts
+undefined;3556;Hotels/Motels/Inns/Resorts
+undefined;3557;Hotels/Motels/Inns/Resorts
+undefined;3558;JOLLY HOTELS
+undefined;3559;Hotels/Motels/Inns/Resorts
+undefined;3560;Hotels/Motels/Inns/Resorts
+undefined;3561;Hotels/Motels/Inns/Resorts
+undefined;3562;COMFORT INNS
+undefined;3563;JOURNEY’S END MOTLS
+undefined;3564;Hotels/Motels/Inns/Resorts
+undefined;3565;RELAX INNS
+undefined;3566;Hotels/Motels/Inns/Resorts
+undefined;3567;Hotels/Motels/Inns/Resorts
+undefined;3568;LADBROKE HOTELS
+undefined;3569;Hotels/Motels/Inns/Resorts
+undefined;3570;FORUM HOTELS
+undefined;3571;Hotels/Motels/Inns/Resorts
+undefined;3572;MIYAKO HOTELS
+undefined;3573;SANDMAN HOTELS
+undefined;3574;VENTURE INNS
+undefined;3575;VAGABOND HOTELS
+undefined;3576;Hotels/Motels/Inns/Resorts
+undefined;3577;MANDARIN ORIENTAL HOTEL
+undefined;3578;Hotels/Motels/Inns/Resorts
+undefined;3579;HOTEL MERCURE
+undefined;3580;Hotels/Motels/Inns/Resorts
+undefined;3581;DELTA HOTEL
+undefined;3582;Hotels/Motels/Inns/Resorts
+undefined;3583;SAS HOTELS
+undefined;3584;PRINCESS HOTELS INTERNATIONAL
+undefined;3585;HUNGAR HOTELS
+undefined;3586;SOKOS HOTELS
+undefined;3587;DORAL HOTELS
+undefined;3588;HELMSLEY HOTELS
+undefined;3589;Hotels/Motels/Inns/Resorts
+undefined;3590;FAIRMONT HOTELS
+undefined;3591;SONESTA HOTELS
+undefined;3592;OMNI HOTELS
+undefined;3593;CUNARD HOTELS
+undefined;3594;Hotels/Motels/Inns/Resorts
+undefined;3595;HOSPITALITY INTERNATIONAL
+undefined;3596;Hotels/Motels/Inns/Resorts
+undefined;3597;Hotels/Motels/Inns/Resorts
+undefined;3598;REGENT INTERNATIONAL HOTELS
+undefined;3599;PANNONIA HOTELS
+undefined;3600;Hotels/Motels/Inns/Resorts
+undefined;3601;Hotels/Motels/Inns/Resorts
+undefined;3602;Hotels/Motels/Inns/Resorts
+undefined;3603;NOAH’S HOTELS
+undefined;3604;Hotels/Motels/Inns/Resorts
+undefined;3605;Hotels/Motels/Inns/Resorts
+undefined;3606;Hotels/Motels/Inns/Resorts
+undefined;3607;Hotels/Motels/Inns/Resorts
+undefined;3608;Hotels/Motels/Inns/Resorts
+undefined;3609;Hotels/Motels/Inns/Resorts
+undefined;3610;Hotels/Motels/Inns/Resorts
+undefined;3611;Hotels/Motels/Inns/Resorts
+undefined;3612;MOVENPICK HOTELS
+undefined;3613;Hotels/Motels/Inns/Resorts
+undefined;3614;Hotels/Motels/Inns/Resorts
+undefined;3615;TRAVELODGE
+undefined;3616;Hotels/Motels/Inns/Resorts
+undefined;3617;Hotels/Motels/Inns/Resorts
+undefined;3618;Hotels/Motels/Inns/Resorts
+undefined;3619;Hotels/Motels/Inns/Resorts
+undefined;3620;TELFORD INTERNATIONAL
+undefined;3621;Hotels/Motels/Inns/Resorts
+undefined;3622;MERLIN HOTELS
+undefined;3623;DORINT HOTELS
+undefined;3624;Hotels/Motels/Inns/Resorts
+undefined;3625;HOTLE UNIVERSALE
+undefined;3626;PRINCE HOTELS
+undefined;3627;Hotels/Motels/Inns/Resorts
+undefined;3628;Hotels/Motels/Inns/Resorts
+undefined;3629;DAN HOTELS
+undefined;3630;Hotels/Motels/Inns/Resorts
+undefined;3631;Hotels/Motels/Inns/Resorts
+undefined;3632;Hotels/Motels/Inns/Resorts
+undefined;3633;RANK HOTELS
+undefined;3634;SWISSOTEL
+undefined;3635;RESO HOTELS
+undefined;3636;SAROVA HOTELS
+undefined;3637;RAMADA INNS, RAMADA LIMITED
+undefined;3638;HO JO INN, HOWARD JOHNSON
+undefined;3639;MOUNT CHARLOTTE THISTLE
+undefined;3640;HYATT HOTEL
+undefined;3641;SOFITEL HOTELS
+undefined;3642;NOVOTEL HOTELS
+undefined;3643;STEIGENBERGER HOTELS
+undefined;3644;ECONO LODGES
+undefined;3645;QUEENS MOAT HOUSES
+undefined;3646;SWALLOW HOTELS
+undefined;3647;HUSA HOTELS
+undefined;3648;DE VERE HOTELS
+undefined;3649;RADISSON HOTELS
+undefined;3650;RED ROOK INNS
+undefined;3651;IMPERIAL LONDON HOTEL
+undefined;3652;EMBASSY HOTELS
+undefined;3653;PENTA HOTELS
+undefined;3654;LOEWS HOTELS
+undefined;3655;SCANDIC HOTELS
+undefined;3656;SARA HOTELS
+undefined;3657;OBEROI HOTELS
+undefined;3658;OTANI HOTELS
+undefined;3659;TAJ HOTELS INTERNATIONAL
+undefined;3660;KNIGHTS INNS
+undefined;3661;METROPOLE HOTELS
+undefined;3662;Hotels/Motels/Inns/Resorts
+undefined;3663;HOTELES EL PRESIDENTS
+undefined;3664;FLAG INN
+undefined;3665;HAMPTON INNS
+undefined;3666;STAKIS HOTELS
+undefined;3667;Hotels/Motels/Inns/Resorts
+undefined;3668;MARITIM HOTELS
+undefined;3669;Hotels/Motels/Inns/Resorts
+undefined;3670;ARCARD HOTELS
+undefined;3671;ARCTIA HOTELS
+undefined;3672;CAMPANIEL HOTELS
+undefined;3673;IBUSZ HOTELS
+undefined;3674;RANTASIPI HOTELS
+undefined;3675;INTERHOTEL CEDOK
+undefined;3676;Hotels/Motels/Inns/Resorts
+undefined;3677;CLIMAT DE FRANCE HOTELS
+undefined;3678;CUMULUS HOTELS
+undefined;3679;DANUBIUS HOTEL
+undefined;3680;Hotels/Motels/Inns/Resorts
+undefined;3681;ADAMS MARK HOTELS
+undefined;3682;ALLSTAR INNS
+undefined;3683;Hotels/Motels/Inns/Resorts
+undefined;3684;BUDGET HOST INNS
+undefined;3685;BUDGETEL HOTELS
+undefined;3686;SUISSE CHALETS
+undefined;3687;CLARION HOTELS
+undefined;3688;COMPRI HOTELS
+undefined;3689;CONSORT HOTELS
+undefined;3690;COURTYARD BY MARRIOTT
+undefined;3691;DILLION INNS
+undefined;3692;DOUBLETREE HOTELS
+undefined;3693;DRURY INNS
+undefined;3694;ECONOMY INNS OF AMERICA
+undefined;3695;EMBASSY SUITES
+undefined;3696;EXEL INNS
+undefined;3697;FARFIELD HOTELS
+undefined;3698;HARLEY HOTELS
+undefined;3699;MIDWAY MOTOR LODGE
+undefined;3700;MOTEL 6
+undefined;3701;GUEST QUARTERS (Formally PICKETT SUITE HOTELS)
+undefined;3702;THE REGISTRY HOTELS
+undefined;3703;RESIDENCE INNS
+undefined;3704;ROYCE HOTELS
+undefined;3705;SANDMAN INNS
+undefined;3706;SHILO INNS
+undefined;3707;SHONEY’S INNS
+undefined;3708;Hotels/Motels/Inns/Resorts
+undefined;3709;SUPER8 MOTELS
+undefined;3710;THE RITZ CARLTON HOTELS
+undefined;3711;FLAG INNS (AUSRALIA)
+undefined;3712;GOLDEN CHAIN HOTEL
+undefined;3713;QUALITY PACIFIC HOTEL
+undefined;3714;FOUR SEASONS HOTEL (AUSTRALIA)
+undefined;3715;FARIFIELD INN
+undefined;3716;CARLTON HOTELS
+undefined;3717;CITY LODGE HOTELS
+undefined;3718;KAROS HOTELS
+undefined;3719;PROTEA HOTELS
+undefined;3720;SOUTHERN SUN HOTELS
+undefined;3721;HILTON CONRAD
+undefined;3722;WYNDHAM HOTEL AND RESORTS
+undefined;3723;RICA HOTELS
+undefined;3724;INER NOR HOTELS
+undefined;3725;SEAINES PLANATION
+undefined;3726;RIO SUITES
+undefined;3727;BROADMOOR HOTEL
+undefined;3728;BALLY’S HOTEL AND CASINO
+undefined;3729;JOHN ASCUAGA’S NUGGET
+undefined;3730;MGM GRAND HOTEL
+undefined;3731;HARRAH’S HOTELS AND CASINOS
+undefined;3732;OPRYLAND HOTEL
+undefined;3733;BOCA RATON RESORT
+undefined;3734;HARVEY/BRISTOL HOTELS
+undefined;3735;Hotels/Motels/Inns/Resorts
+undefined;3736;COLORADO BELLE/EDGEWATER RESORT
+undefined;3737;RIVIERA HOTEL AND CASINO
+undefined;3738;TROPICANA RESORT AND CASINO
+undefined;3739;WOODSIDE HOTELS AND RESORTS
+undefined;3740;TOWNPLACE SUITES
+undefined;3741;MILLENIUM BROADWAY HOTEL
+undefined;3742;CLUB MED
+undefined;3743;BILTMORE HOTEL AND SUITES
+undefined;3744;CAREFREE RESORTS
+undefined;3745;ST. REGIS HOTEL
+undefined;3746;THE ELIOT HOTEL
+undefined;3747;CLUBCORP/CLUB RESORTS
+undefined;3748;WELESLEY INNS
+undefined;3749;THE BEVERLY HILLS HOTEL
+undefined;3750;CROWNE PLAZA HOTELS
+undefined;3751;HOMEWOOD SUITES
+undefined;3752;PEABODY HOTELS
+undefined;3753;GREENBRIAH RESORTS
+undefined;3754;AMELIA ISLAND PLANATION
+undefined;3755;THE HOMESTEAD
+undefined;3756;SOUTH SEAS RESORTS
+undefined;3757;Hotels/Motels/Inns/Resorts
+undefined;3758;Hotels/Motels/Inns/Resorts
+undefined;3759;Hotels/Motels/Inns/Resorts
+undefined;3760;Hotels/Motels/Inns/Resorts
+undefined;3761;Hotels/Motels/Inns/Resorts
+undefined;3762;Hotels/Motels/Inns/Resorts
+undefined;3763;Hotels/Motels/Inns/Resorts
+undefined;3764;Hotels/Motels/Inns/Resorts
+undefined;3765;Hotels/Motels/Inns/Resorts
+undefined;3766;Hotels/Motels/Inns/Resorts
+undefined;3767;Hotels/Motels/Inns/Resorts
+undefined;3768;Hotels/Motels/Inns/Resorts
+undefined;3769;Hotels/Motels/Inns/Resorts
+undefined;3770;Hotels/Motels/Inns/Resorts
+undefined;3771;Hotels/Motels/Inns/Resorts
+undefined;3772;Hotels/Motels/Inns/Resorts
+undefined;3773;Hotels/Motels/Inns/Resorts
+undefined;3774;Hotels/Motels/Inns/Resorts
+undefined;3775;Hotels/Motels/Inns/Resorts
+undefined;3776;Hotels/Motels/Inns/Resorts
+undefined;3777;Hotels/Motels/Inns/Resorts
+undefined;3778;Hotels/Motels/Inns/Resorts
+undefined;3779;Hotels/Motels/Inns/Resorts
+undefined;3780;Hotels/Motels/Inns/Resorts
+undefined;3781;Hotels/Motels/Inns/Resorts
+undefined;3782;Hotels/Motels/Inns/Resorts
+undefined;3783;Hotels/Motels/Inns/Resorts
+undefined;3784;Hotels/Motels/Inns/Resorts
+undefined;3785;Hotels/Motels/Inns/Resorts
+undefined;3786;Hotels/Motels/Inns/Resorts
+undefined;3787;Hotels/Motels/Inns/Resorts
+undefined;3788;Hotels/Motels/Inns/Resorts
+undefined;3789;Hotels/Motels/Inns/Resorts
+undefined;3790;Hotels/Motels/Inns/Resorts
+undefined;3816;Home2Suites
+undefined;3832;Curio Hotels
+undefined;3833;Canopy
+undefined;3835;* MASTERS ECONOMY INNS
+undefined;4011;Railroads
+undefined;4111;Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.
+undefined;4112;Passenger Railways
+undefined;4119;Ambulance Services
+undefined;4121;Taxicabs and Limousines
+undefined;4131;Bus Lines, Including Charters, Tour Buses
+undefined;4214;Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local
+undefined;4215;Courier Services – Air or Ground, Freight forwarders
+undefined;4225;Public warehousing, Storage
+undefined;4411;Cruise and Steamship Lines
+undefined;4457;Boat Rentals and Leases
+undefined;4468;Marinas, Marine Service, and Supplies
+undefined;4511;Airlines, Air Carriers ( not listed elsewhere)
+undefined;4582;Airports, Airport Terminals, Flying Fields
+undefined;4722;Travel Agencies and Tour Operations
+undefined;4723;Package Tour Operators (For use in Germany only)
+undefined;4784;Toll and Bridge Fees
+undefined;4789;Transportation Services, Not elsewhere classified)
+undefined;4812;Telecommunications Equipment including telephone sales
+undefined;4814;Fax services, Telecommunication Services
+undefined;4815;VisaPhone
+undefined;4816;Computer Network Services
+undefined;4821;Telegraph services
+undefined;4829;Money Orders – Wire Transfer
+undefined;4899;Cable and other pay television (previously Cable Services)
+undefined;4900;Electric, Gas, Sanitary and Water Utilities
+undefined;5013;Motor vehicle supplies and new parts
+undefined;5021;Office and Commercial Furniture
+undefined;5039;Construction Materials, Not Elsewhere Classified
+undefined;5044;Office, Photographic, Photocopy, and Microfilm Equipment
+undefined;5045;Computers, Computer Peripheral Equipment, Software
+undefined;5046;Commercial Equipment, Not Elsewhere Classified
+undefined;5047;Medical, Dental Ophthalmic, Hospital Equipment and Supplies
+undefined;5051;Metal Service Centers and Offices
+undefined;5065;Electrical Parts and Equipment
+undefined;5072;Hardware Equipment and Supplies
+undefined;5074;Plumbing and Heating Equipment and Supplies
+undefined;5085;Industrial Supplies, Not Elsewhere Classified
+undefined;5094;Precious Stones and Metals, Watches and Jewelry
+undefined;5099;Durable Goods, Not Elsewhere Classified
+undefined;5111;Stationery, Office Supplies, Printing, and Writing Paper
+undefined;5122;Drugs, Drug Proprietors, and Druggist’s Sundries
+undefined;5131;Piece Goods, Notions, and Other Dry Goods
+undefined;5137;Men’s Women’s and Children’s Uniforms and Commercial Clothing
+undefined;5139;Commercial Footwear
+undefined;5169;Chemicals and Allied Products, Not Elsewhere Classified
+undefined;5172;Petroleum and Petroleum Products
+undefined;5192;Books, Periodicals, and Newspapers
+undefined;5193;Florists’ Supplies, Nursery Stock and Flowers
+undefined;5198;Paints, Varnishes, and Supplies
+undefined;5199;Non-durable Goods, Not Elsewhere Classified
+undefined;5200;Home Supply Warehouse Stores
+undefined;5211;Lumber and Building Materials Stores
+undefined;5231;Glass, Paint, and Wallpaper Stores
+undefined;5251;Hardware Stores
+undefined;5261;Nurseries – Lawn and Garden Supply Store
+undefined;5271;Mobile Home Dealers
+undefined;5300;Wholesale Clubs
+undefined;5309;Duty Free Store
+undefined;5310;Discount Stores
+undefined;5311;Department Stores
+undefined;5331;Variety Stores
+undefined;5399;Misc. General Merchandise
+undefined;5411;Grocery Stores, Supermarkets
+undefined;5422;Meat Provisioners – Freezer and Locker
+undefined;5441;Candy, Nut, and Confectionery Stores
+undefined;5451;Dairy Products Stores
+undefined;5462;Bakeries
+undefined;5499;Misc. Food Stores – Convenience Stores and Specialty Markets
+undefined;5511;Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing
+undefined;5521;Automobile and Truck Dealers (Used Only)
+undefined;5531;Automobile Supply Stores
+undefined;5532;Automotive Tire Stores
+undefined;5533;Automotive Parts, Accessories Stores
+undefined;5541;Service Stations ( with or without ancillary services)
+undefined;5542;Automated Fuel Dispensers
+undefined;5551;Boat Dealers
+undefined;5561;Recreational and Utility Trailers, Camp Dealers
+undefined;5571;Motorcycle Dealers
+undefined;5592;Motor Home Dealers
+undefined;5598;Snowmobile Dealers
+undefined;5599;Miscellaneous Auto Dealers 
+undefined;5611;Men’s and Boy’s Clothing and Accessories Stores
+undefined;5621;Women’s Ready-to-Wear Stores
+undefined;5631;Women’s Accessory and Specialty Shops
+undefined;5641;Children’s and Infant’s Wear Stores
+undefined;5651;Family Clothing Stores
+undefined;5655;Sports Apparel, Riding Apparel Stores
+undefined;5661;Shoe Stores
+undefined;5681;Furriers and Fur Shops
+undefined;5691;Men’s and Women’s Clothing Stores
+undefined;5697;Tailors, Seamstress, Mending, and Alterations
+undefined;5698;Wig and Toupee Stores
+undefined;5699;Miscellaneous Apparel and Accessory Shops
+undefined;5712;Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances
+undefined;5713;Floor Covering Stores
+undefined;5714;Drapery, Window Covering and Upholstery Stores
+undefined;5718;Fireplace, Fireplace Screens, and Accessories Stores
+undefined;5719;Miscellaneous Home Furnishing Specialty Stores
+undefined;5722;Household Appliance Stores
+undefined;5732;Electronic Sales
+undefined;5733;Music Stores, Musical Instruments, Piano Sheet Music
+undefined;5734;Computer Software Stores
+undefined;5735;Record Shops
+undefined;5811;Caterers
+undefined;5812;Eating places and Restaurants
+undefined;5813;Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques
+undefined;5814;Fast Food Restaurants
+undefined;5815;Digital Goods: Media, Books, Movies, Music
+undefined;5816;Digital Goods: Games
+undefined;5817;Digital Goods: Applications (Excludes Games)
+undefined;5818;Digital Goods: Large Digital Goods Merchant
+undefined;5832;Antique Shops – Sales, Repairs, and Restoration Services
+undefined;5912;Drug Stores and Pharmacies
+undefined;5921;Package Stores – Beer, Wine, and Liquor
+undefined;5931;Used Merchandise and Secondhand Stores
+undefined;5932;Antique Shops
+undefined;5933;Pawn Shops and Salvage Yards
+undefined;5935;Wrecking and Salvage Yards
+undefined;5937;Antique Reproductions
+undefined;5940;Bicycle Shops – Sales and Service
+undefined;5941;Sporting Goods Stores
+undefined;5942;Book Stores
+undefined;5943;Stationery Stores, Office and School Supply Stores
+undefined;5944;Watch, Clock, Jewelry, and Silverware Stores
+undefined;5945;Hobby, Toy, and Game Shops
+undefined;5946;Camera and Photographic Supply Stores
+undefined;5947;Card Shops, Gift, Novelty, and Souvenir Shops
+undefined;5948;Leather Foods Stores
+undefined;5949;Sewing, Needle, Fabric, and Price Goods Stores
+undefined;5950;Glassware/Crystal Stores
+undefined;5960;Direct Marketing- Insurance Service
+undefined;5961;Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)
+undefined;5962;Direct Marketing – Travel Related Arrangements Services
+undefined;5963;Door-to-Door Sales
+undefined;5964;Direct Marketing – Catalog Merchant
+undefined;5965;Direct Marketing – Catalog and Catalog and Retail Merchant
+undefined;5966;Direct Marketing- Outbound Telemarketing Merchant
+undefined;5967;Direct Marketing – Inbound Teleservices Merchant
+undefined;5968;Direct Marketing – Continuity/Subscription Merchant
+undefined;5969;Direct Marketing – Not Elsewhere Classified
+undefined;5970;Artist’s Supply and Craft Shops
+undefined;5971;Art Dealers and Galleries
+undefined;5972;Stamp and Coin Stores – Philatelic and Numismatic Supplies
+undefined;5973;Religious Goods Stores
+undefined;5975;Hearing Aids – Sales, Service, and Supply Stores
+undefined;5976;Orthopedic Goods Prosthetic Devices
+undefined;5977;Cosmetic Stores
+undefined;5978;Typewriter Stores – Sales, Rental, Service
+undefined;5983;Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum
+undefined;5992;Florists
+undefined;5993;Cigar Stores and Stands
+undefined;5994;News Dealers and Newsstands
+undefined;5995;Pet Shops, Pet Foods, and Supplies Stores
+undefined;5996;Swimming Pools – Sales, Service, and Supplies
+undefined;5997;Electric Razor Stores – Sales and Service
+undefined;5998;Tent and Awning Shops
+undefined;5999;Miscellaneous and Specialty Retail Stores
+undefined;6010;Financial Institutions – Manual Cash Disbursements
+undefined;6011;Financial Institutions – Manual Cash Disbursements
+undefined;6012;Financial Institutions – Merchandise and Services
+undefined;6051;Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques
+undefined;6211;Security Brokers/Dealers
+undefined;6300;Insurance Sales, Underwriting, and Premiums
+undefined;6381;Insurance Premiums, (no longer valid for first presentment work)
+undefined;6399;Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)
+undefined;6513;Real Estate Agents and Managers - Rentals
+undefined;7011;Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)
+undefined;7012;Timeshares
+undefined;7032;Sporting and Recreational Camps
+undefined;7033;Trailer Parks and Camp Grounds
+undefined;7210;Laundry, Cleaning, and Garment Services
+undefined;7211;Laundry – Family and Commercial
+undefined;7216;Dry Cleaners
+undefined;7217;Carpet and Upholstery Cleaning
+undefined;7221;Photographic Studios
+undefined;7230;Barber and Beauty Shops
+undefined;7251;Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops
+undefined;7261;Funeral Service and Crematories
+undefined;7273;Dating and Escort Services
+undefined;7276;Tax Preparation Service
+undefined;7277;Counseling Service – Debt, Marriage, Personal
+undefined;7278;Buying/Shopping Services, Clubs
+undefined;7296;Clothing Rental – Costumes, Formal Wear, Uniforms
+undefined;7297;Massage Parlors
+undefined;7298;Health and Beauty Shops
+undefined;7299;Miscellaneous Personal Services ( not elsewhere classifies)
+undefined;7311;Advertising Services
+undefined;7321;Consumer Credit Reporting Agencies
+undefined;7332;Blueprinting and Photocopying Services
+undefined;7333;Commercial Photography, Art and Graphics
+undefined;7338;Quick Copy, Reproduction and Blueprinting Services
+undefined;7339;Stenographic and Secretarial Support Services
+undefined;7342;Exterminating and Disinfecting Services
+undefined;7349;Cleaning and Maintenance, Janitorial Services
+undefined;7361;Employment Agencies, Temporary Help Services
+undefined;7372;Computer Programming, Integrated Systems Design and Data Processing Services
+undefined;7375;Information Retrieval Services
+undefined;7379;Computer Maintenance and Repair Services, Not Elsewhere Classified
+undefined;7392;Management, Consulting, and Public Relations Services
+undefined;7393;Protective and Security Services – Including Armored Carsand Guard Dogs
+undefined;7394;Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental
+undefined;7395;Photofinishing Laboratories, Photo Developing
+undefined;7399;Business Services, Not Elsewhere Classified
+undefined;7511;Truck Stop
+undefined;7512;Car Rental Companies ( Not Listed Below)
+undefined;7513;Truck and Utility Trailer Rentals
+undefined;7519;Motor Home and Recreational Vehicle Rentals
+undefined;7523;Automobile Parking Lots and Garages
+undefined;7531;Automotive Body Repair Shops
+undefined;7534;Tire Re-treading and Repair Shops
+undefined;7535;Paint Shops – Automotive
+undefined;7538;Automotive Service Shops
+undefined;7542;Car Washes
+undefined;7549;Towing Services
+undefined;7622;Radio Repair Shops
+undefined;7623;Air Conditioning and Refrigeration Repair Shops
+undefined;7629;Electrical And Small Appliance Repair Shops
+undefined;7631;Watch, Clock, and Jewelry Repair
+undefined;7641;Furniture, Furniture Repair, and Furniture Refinishing
+undefined;7692;Welding Repair
+undefined;7699;Repair Shops and Related Services –Miscellaneous
+undefined;7800;Government-Owned Lotteries
+undefined;7801;Government-Licensed On-Line Casinos (On-Line Gambling)
+undefined;7802;Government-Licensed Horse/Dog Racing
+undefined;7829;Motion Pictures and Video Tape Production and Distribution
+undefined;7832;Motion Picture Theaters
+undefined;7841;Video Tape Rental Stores
+undefined;7911;Dance Halls, Studios and Schools
+undefined;7922;Theatrical Producers (Except Motion Pictures), Ticket Agencies
+undefined;7929;Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)
+undefined;7932;Billiard and Pool Establishments
+undefined;7933;Bowling Alleys
+undefined;7941;Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters
+undefined;7991;Tourist Attractions and Exhibits
+undefined;7992;Golf Courses – Public
+undefined;7993;Video Amusement Game Supplies
+undefined;7994;Video Game Arcades/Establishments
+undefined;7995;Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)
+undefined;7996;Amusement Parks, Carnivals, Circuses, Fortune Tellers
+undefined;7997;Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses
+undefined;7998;Aquariums, Sea-aquariums, Dolphinariums
+undefined;7999;Recreation Services (Not Elsewhere Classified)
+undefined;8011;Doctors and Physicians (Not Elsewhere Classified)
+undefined;8021;Dentists and Orthodontists
+undefined;8031;Osteopaths
+undefined;8041;Chiropractors
+undefined;8042;Optometrists and Ophthalmologists
+undefined;8043;Opticians, Opticians Goods and Eyeglasses
+undefined;8044;Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)
+undefined;8049;Podiatrists and Chiropodists
+undefined;8050;Nursing and Personal Care Facilities
+undefined;8062;Hospitals
+undefined;8071;Medical and Dental Laboratories
+undefined;8099;Medical Services and Health Practitioners (Not Elsewhere Classified)
+undefined;8111;Legal Services and Attorneys
+undefined;8211;Elementary and Secondary Schools
+undefined;8220;Colleges, Junior Colleges, Universities, and ProfessionalSchools
+undefined;8241;Correspondence Schools
+undefined;8244;Business and Secretarial Schools
+undefined;8249;Vocational Schools and Trade Schools
+undefined;8299;Schools and Educational Services ( Not Elsewhere Classified)
+undefined;8351;Child Care Services
+undefined;8398;Charitable and Social Service Organizations
+undefined;8641;Civic, Fraternal, and Social Associations
+undefined;8651;Political Organizations
+undefined;8661;Religious Organizations
+undefined;8675;Automobile Associations
+undefined;8699;Membership Organizations ( Not Elsewhere Classified)
+undefined;8734;Testing Laboratories ( non-medical)
+undefined;8911;Architectural – Engineering and Surveying Services
+undefined;8931;Accounting, Auditing, and Bookkeeping Services
+undefined;8999;Professional Services ( Not Elsewhere Defined)
+undefined;9211;Court Costs, including Alimony and Child Support
+undefined;9222;Fines
+undefined;9223;Bail and Bond Payments
+undefined;9311;Tax Payments
+undefined;9399;Government Services ( Not Elsewhere Classified)
+undefined;9402;Postal Services – Government Only
+undefined;9405;Intra – Government Transactions
+undefined;9700;Automated Referral Service ( For Visa Only)
+undefined;9701;Visa Credential Service ( For Visa Only)
+undefined;9702;GCAS Emergency Services ( For Visa Only)
+undefined;9950;Intra – Company Purchases ( For Visa Only)
